@@ -1,2 +1,1 @@
-# Project2
-SWOT Analysis
+# Swot Analysis
